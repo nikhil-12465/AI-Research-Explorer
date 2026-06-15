@@ -500,7 +500,7 @@ This project demonstrates:
 - Full Stack Development
 - React Development
 - FastAPI Development
-- PostgreSQL Integration
+- MySQL Integration
 - JWT Authentication
 - Retrieval-Augmented Generation
 - LangChain Integration
