@@ -2,10 +2,9 @@
 
 ![React](https://img.shields.io/badge/Frontend-React-blue)
 ![FastAPI](https://img.shields.io/badge/Backend-FastAPI-green)
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue)
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
 ![JWT](https://img.shields.io/badge/Auth-JWT-orange)
 ![RAG](https://img.shields.io/badge/AI-RAG-purple)
-![LangChain](https://img.shields.io/badge/Framework-LangChain-red)
 
 An AI-powered platform for exploring, analyzing, and understanding research papers using Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), and modern full-stack development technologies.
 
@@ -357,11 +356,11 @@ AI-Research-Explorer/
 
 ## AI & NLP
 
-- LangChain
 - Retrieval-Augmented Generation (RAG)
 - Embeddings
 - Semantic Search
 - Large Language Models (LLMs)
+
 
 ---
 
@@ -452,7 +451,7 @@ Compare two research papers and analyze their similarities and differences.
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/AI-Research-Explorer.git
+git clone https://github.com/nikhil-12465/AI-Research-Explorer.git
 ```
 
 ---
@@ -530,13 +529,13 @@ Built an AI-powered Research Assistant using React, FastAPI, PostgreSQL, LangCha
 
 ---
 
-# 🌐 Deployment( If I use Gemini Api In The Place Of Ollama Which Runs Locally)
+# 🌐 Deployment( Future Changes : If I use Gemini Api In The Place Of Ollama Which Runs Locally)
 
 Frontend: Vercel
 
 Backend: Render
 
-Database: PostgreSQL(In The Place Of Mysql)
+Database: PostgreSQL(In The place Of Mysql)
 
 Future deployment links:
 
